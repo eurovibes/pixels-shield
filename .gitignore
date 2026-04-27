@@ -1,0 +1,27 @@
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: NONE
+
+.*
+!.gitignore
+
+# KiCad
+*.bak
+*.bck
+*.dcm
+*cache.lib 
+*.kicad_pcb-bak
+~*.lck
+*.sch-bak
+*_jlcpcb.csv
+place_footprints.ini
+place_footprints.log
+
+*-backups/
+
+*_autosave*
+
+fp-info-cache
+
+# other backup files
+*~
+\#*#

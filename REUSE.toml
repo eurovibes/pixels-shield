@@ -1,0 +1,10 @@
+version = 1
+
+# computer-generated files.
+[[annotations]]
+path = [
+    "~*.lck",
+    "fp-lib-table"
+]
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "CC0-1.0"
