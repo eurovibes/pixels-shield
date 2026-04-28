@@ -2,6 +2,7 @@
 # SPDX-FileCopyrightText: NONE
 
 .*
+!.github
 !.gitignore
 
 # KiCad
